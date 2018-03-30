@@ -7,3 +7,4 @@ var height = "74"
 if (name === "susan")
 {console.log("susan")}
 else {console.log("not")}
+var name ="susan"
