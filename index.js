@@ -3,7 +3,7 @@ var height = "74"
 
 
 // Don't worry about this
-module.exports = { name, height}
-if(name === "susan")
+
+if (name === "susan")
 {console.log("susan")}
 else {console.log("not")}
